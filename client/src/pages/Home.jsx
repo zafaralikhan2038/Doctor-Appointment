@@ -33,7 +33,7 @@ const Home = () => {
                   className="text-[36px] leading-[46px] text-headingColor font-[800] md:text-[60px]
                 md:leading-[70px] "
                 >
-                  We help patients live a healthy, longer life.
+                  We help patients live a healthy, and longer life.
                 </h1>
 
                 <p className="text__para">
